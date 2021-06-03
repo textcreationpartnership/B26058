@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of all the partners in the lead mines of Bwlchyr Eskir Hir, in the county of Cardigan, the tenth day of December, 1694. whereof those markt [sic] with a * are not capable (by their number of shares) to be chosen committees.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26058</idno><idno type="EEBO-CITATION">99887472</idno>
+  <idno type="VID">190425</idno>
+  <idno type="EEBO-PROQUEST">2240895278</idno>
+  
+            <idno type="STC">Wing L2463A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[5]</idno>
+            <idno type="STC">ESTC R227693</idno>
+            <idno type="PROQUEST">ocm99887472</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887472e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190425)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of all the partners in the lead mines of Bwlchyr Eskir Hir, in the county of Cardigan, the tenth day of December, 1694. whereof those markt [sic] with a * are not capable (by their number of shares) to be chosen committees.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lead mines and mining --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190425:1"/>
+            <head>A LIST of the Names OF ALL THE Partners in the Lead Mines of <hi>Bwlchyr Eskir Hir,</hi> in the County of <hi>Cardigan,</hi> the Tenth day of <hi>December,</hi> 1694. whereof those Markt with a * are not capable (by their Number of Shares) to be chosen <hi>Committees.</hi>
+            </head>
+            <list>
+               <head>B.</head>
+               <item>THomas Barneby, <hi>Gent.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Charles Bickerstaff, <hi>Kt.</hi>
+               </item>
+               <item>Philip Bickerstaff, Esq;</item>
+               <item>* <hi>Mrs.</hi> Jane Bickerstaff, <hi>Spins.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> James Blake.</item>
+               <item>
+                  <hi>Mr.</hi> Robert Bloome.</item>
+               <item>
+                  <hi>The R. Hon.</hi> Pawlet, <hi>Earl of</hi> Bollingbrook.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>The most Hon. the Lord Marquis of <hi>Carmarthen.</hi>
+               </item>
+               <item>Mr. <hi>Richard Chauncy.</hi>
+               </item>
+               <item>Mrs. <hi>Mary Cholmley,</hi> Wid.</item>
+               <item>* Mrs. <hi>Elizabeth Cholmley,</hi> Spins.</item>
+               <item>Mr. <hi>William Cokayne.</hi>
+               </item>
+               <item>
+                  <hi>Hatton Compton,</hi> Esq;</item>
+               <item>* <hi>Richard Curtis,</hi> Gent.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>* The R. Hon. <hi>William</hi> Lord <hi>Digby.</hi>
+               </item>
+               <item>Mr. <hi>Paul Docminique.</hi>
+               </item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Sir <hi>Humphrey Edwin,</hi> Kt. and Ald.</item>
+               <item>
+                  <hi>Samuel Edwin,</hi> Esq;</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>* Henry Farmor, <hi>Esq;</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Anthony Forty</item>
+               <item>William Freeman, <hi>Esq;</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>* <hi>Mr.</hi> Edward Grace.</item>
+               <item>* <hi>Mr.</hi> Henry Grove.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>
+                  <hi>Mr.</hi> Whitfield Hayter.</item>
+               <item>* <hi>Mr.</hi> John Hayword.</item>
+               <item>* <hi>Mrs.</hi> Ann Hill, <hi>Wid.</hi>
+               </item>
+               <item>* <hi>Mr.</hi> Thomas Houghton, <hi>Cl,</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>
+                  <hi>Mr,</hi> Thomas Jeve.</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>The R. Hon. <hi>James,</hi> Ld. Visct. <hi>Lansboro.</hi>
+               </item>
+               <item>His Grace the Duke of <hi>Leeds.</hi>
+               </item>
+               <item>
+                  <hi>George London,</hi> Esq;</item>
+               <item>* Mrs. <hi>Elizabeth Lloyd,</hi> Wid.</item>
+               <item>* Mrs. <hi>Elizabeth Lloyd,</hi> Spins.</item>
+               <item>
+                  <hi>Henry Lloyd,</hi> Esq;,</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>John Meyricke, <hi>Gent.</hi>
+               </item>
+               <item>Arthur Moore, <hi>Esq;</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Morden, <hi>Knt.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Thomas Morrice.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>* Edward Nicholas, <hi>Esq;</hi>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>
+                  <hi>Mr.</hi> John Oldbury.</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Mrs.</hi> Bridget Peshal, <hi>Spins.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Thomas Phipps.</item>
+               <item>William Powel, <hi>Esq;</hi>
+               </item>
+               <item>* <hi>Sir</hi> John Price, <hi>Bar.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Carbery Pryse, <hi>Bar. Dec.</hi>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>Benjamin Rawlins, <hi>Gent.</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>* Christopher Smith, <hi>Gent.</hi>
+               </item>
+               <item>* <hi>Mr.</hi> William Stubbs.</item>
+               <item>Henry Simons, <hi>Esq;</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>Mr.</hi> John Thrale.</item>
+               <item>Samuel Trotman, <hi>Esq;</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Nathaniel Troughton.</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>* James Waringe, <hi>Gent.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Benjamin Weston.</item>
+               <item>
+                  <hi>Sir</hi> Paul Whitchcot, <hi>Knt.</hi>
+               </item>
+               <item>* John Wodehouse, <hi>Esq;</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> John Wolley.</item>
+               <item>
+                  <hi>Sir</hi> Chrostopher Wren, <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Mrs.</hi> Lucy Wroights, <hi>Spins.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="notice">
+            <p>
+               <hi>Memorandum,</hi> Ten Shares have but One Vote, and no less than Twenty Shares renders any Person capable of being Chosen of the COMMITTEES.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
